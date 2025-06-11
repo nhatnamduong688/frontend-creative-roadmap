@@ -5,6 +5,8 @@ Dự án này chứa lộ trình chi tiết để trở thành một Frontend Cr
 ## 📋 Nội dung
 
 - [Lộ trình Frontend Creative](./frontend-creative-roadmap.md) - Hướng dẫn chi tiết từ cơ bản đến nâng cao
+- [Hướng dẫn Ôn tập & Luyện tập](./practice-guide.md) - Cách ôn tập và luyện tập hiệu quả cho từng kỹ năng
+- [Template Theo dõi Tiến độ](./learning-tracker-template.md) - Template để track tiến độ học tập hàng ngày
 
 ## 🎯 Mục tiêu
 
@@ -17,9 +19,11 @@ Cung cấp một lộ trình học tập toàn diện cho những ai muốn:
 ## 🚀 Bắt đầu
 
 1. Đọc [lộ trình chi tiết](./frontend-creative-roadmap.md)
-2. Bắt đầu với nền tảng cơ bản (HTML, CSS, JavaScript)
-3. Thực hành thường xuyên và xây dựng projects
-4. Tham gia cộng đồng để học hỏi và chia sẻ
+2. Tham khảo [hướng dẫn luyện tập](./practice-guide.md) để biết cách ôn tập hiệu quả
+3. Sử dụng [template theo dõi tiến độ](./learning-tracker-template.md) để track quá trình học
+4. Bắt đầu với nền tảng cơ bản (HTML, CSS, JavaScript)
+5. Thực hành thường xuyên và xây dựng projects
+6. Tham gia cộng đồng để học hỏi và chia sẻ
 
 ## 📚 Tài nguyên
 
